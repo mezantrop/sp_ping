@@ -6,6 +6,7 @@ Usage:
   sp_ping.py -h host [-c count][-i interval][-m ttl][-t timeout][-ov]
 
 Options:
+  -h host           Target host to ping
   [-c count]        Send count only packets. Default is 0xffffff
   [-i interval]     Interval between two requests in seconds. Default is 1
   [-m ttl]          TTL of outgoing packets. Default is 64
