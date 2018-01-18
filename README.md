@@ -1,9 +1,9 @@
-# sp_ping.py
+# spping.py
 Send ICMP ECHO_REQUEST packets to network hosts. Simple ping implementation in Python
 
 ```
 Usage:
-  tspping.py -h host [-c count][-i interval][-m ttl][-t timeout][-ov]
+  spping.py -h host [-c count][-i interval][-m ttl][-t timeout][-ov]
 
 Options:
   [-c count]        Send count only packets. Default is 0xffffff
