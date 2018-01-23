@@ -1,4 +1,4 @@
-## sp_ping.py - Send ICMP ECHO_REQUEST packets to network hosts. 
+## sp_ping.py - Send ICMP ECHO_REQUEST packets to network hosts
 Simple ping implementation in Python
 
 ```
