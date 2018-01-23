@@ -16,3 +16,15 @@ Options:
   
   Note! You must be root to run this program.
   ```
+
+## mping6.awk - Quickly report alive IPv6 addresses on the network
+
+```
+Usage:
+  mping6.awk [count=n] [interval=m] interface
+
+Options:
+  interface	Network interface to serach for IPv6 hosts on
+  [count=n]	Send count only pings. Default is 2
+  [interval=m]	Interval between pings. Default is 10
+```
