@@ -17,7 +17,7 @@ Options:
   Note! You must be root to run this program.
   ```
 
-## mping6.awk - Quickly report alive IPv6 addresses on the network
+## mping6.awk - Quickly report alive IPv6 addresses on the local network
 
 ```
 Usage:
