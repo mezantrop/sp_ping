@@ -1,3 +1,4 @@
+# Warning! This project has been migrated to GitLab with the same name.
 ## sp_ping.py - Send ICMP ECHO_REQUEST packets to network hosts
 Simple ping implementation in Python
 
